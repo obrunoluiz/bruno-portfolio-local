@@ -1,0 +1,15 @@
+{
+  "name": "bruno-portfolio-local",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "capture": "node scripts/capture.mjs"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.52.0",
+    "vite": "^6.1.0"
+  }
+}
