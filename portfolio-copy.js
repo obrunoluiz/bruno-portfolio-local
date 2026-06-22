@@ -20,17 +20,17 @@
   };
 
   const text = new Map([
-    ["Curso mais completo de WebDesign", "UMA AMOSTRA DO MEU TRABALHO"],
-    ["Aprenda do Zero", "LANDING PAGES"],
-    ["O Mercado Mais Bem Pago do Design", "IDENTIDADE VISUAL"],
-    ["Zero programação", "CAMPANHAS"],
-    ["O seu próximo passo", "DESIGN PARA MARKETING"],
-    ["Do design à página publicada", "WEB DESIGN & IA"],
-    ["NUNCA CRIOU UMA PÁGINA NA VIDA", "01. GERAR RESULTADOS"],
-    ["Já é designer e quer dar o próximo passo", "02. FORTALECER AUTORIDADE"],
-    ["QUER ENTRAR NO MERCADO MAIS BEM PAGO DO DESIGN", "03. CRIAR DIFERENCIAÇÃO"],
-    ["Dá pra ganhar dinheiro com Landing Pages?", "PROJETOS PARA EMPRESAS E NEGÓCIOS QUE BUSCAM CRESCER"],
-    ["A resposta é sim — e os dados da Kiwify e Hotmart comprovam.", "Projetos desenvolvidos para diferentes segmentos, sempre com foco em estratégia, experiência e resultado."],
+    ["Curso mais completo de WebDesign", "POR QUE APLICAR TRÁFEGO PAGO NO SEU NEGÓCIO"],
+    ["Aprenda do Zero", "RECONHECIMENTO, NÃO SÓ VENDA PONTUAL"],
+    ["O Mercado Mais Bem Pago do Design", "O CANAL QUE MAIS CONVERTE HOJE"],
+    ["Zero programação", "RECONHECIMENTO LOCAL"],
+    ["O seu próximo passo", "FUNIL COMPLETO"],
+    ["Do design à página publicada", "DO ANÚNCIO À VENDA"],
+    ["NUNCA CRIOU UMA PÁGINA NA VIDA", "ESTRATÉGIA"],
+    ["Já é designer e quer dar o próximo passo", "OTIMIZAÇÃO"],
+    ["QUER ENTRAR NO MERCADO MAIS BEM PAGO DO DESIGN", "COMPROMISSO COM O RESULTADO"],
+    ["Dá pra ganhar dinheiro com Landing Pages?", "POSSO CONFIAR EM VOCÊ?"],
+    ["A resposta é sim — e os dados da Kiwify e Hotmart comprovam.", "A resposta é sim — além de ter gerenciado mais de R$ 100 mil em anúncios, sou certificado por grandes agências e pelo maior curso de tráfego pago do Brasil."],
     ["Olha tudo que você vai ter acesso:", "DESIGN. MARKETING. IMPLEMENTAÇÃO."],
     ["Suporte para dúvidas", "Planejamento Estratégico"],
     ["Atualizações & Novas Aulas", "Design de Conversão"],
@@ -67,14 +67,14 @@
   ]);
 
   const paragraphs = new Map([
-    ["Não importa se nunca abriu o Figma, Photoshop ou Elementor. A gente pega na sua mão e te leva do básico até publicar sua primeira página.", "Páginas criadas para aumentar conversões, gerar leads e impulsionar vendas."],
-    ["Toda empresa, lançamento e marca precisa de alguém que crie sites bonitos e que funcionam. E aqui tá o ponto: é um dos setores que mais pagam dentro do design. Enquanto muita gente ainda se prende a post de Instagram, você aprende a criar algo que gera resultado real e é muito mais valorizado.", "Construção visual que fortalece o posicionamento e a percepção de valor da marca."],
-    ["Chega de achar que precisa ser programador. Você vai aprender a criar páginas fodas sem escrever uma única linha de código.", "Peças criativas desenvolvidas para anúncios, lançamentos e ações de marketing digital."],
-    ["Se você é da área do Design (ou quer entrar) o Web Design é o melhor caminho: menos concorrência, mais valor e os projetos mais bem pagos do mercado.", "Materiais estratégicos alinhados aos objetivos comerciais de cada negócio."],
-    ["Aqui você aprende todo o processo de Web Designer: Desde a criação do Layout até a implementação da página online. Nada de ficar perdido entre mil tutoriais é o caminho direto pra virar Web Designer completo.", "Projetos desenvolvidos com processos otimizados por inteligência artificial e tecnologias modernas."],
-    ["Mesmo que você nunca tenha aberto o Figma, o Photoshop ou o Elementor, o NoCode Pages te ensina do zero a criar páginas completas, profissionais e simplesmente F#DAS.", "Projetos estruturados para transformar tráfego em oportunidades reais de negócio."],
-    ["Chega de achar que Design é só criar Posts, carrosséis para o Instagram... Aqui você vai aprender a criar Páginas, Sites, Landing Pages, sem programar e agregando muito mais valor pros seus projetos e clientes.", "Experiências digitais que aumentam credibilidade, confiança e posicionamento no mercado."],
-    ["O Web Design é uma das áreas mais valorizadas hoje. Aqui você aprende a se destacar, cobrar mais e entregar projetos que chamam atenção de verdade.", "Design alinhado à estratégia para destacar marcas em ambientes cada vez mais competitivos."],
+    ["Não importa se nunca abriu o Figma, Photoshop ou Elementor. A gente pega na sua mão e te leva do básico até publicar sua primeira página.", "Não importa se você nunca rodou um anúncio. A estrutura que eu monto leva sua marca do zero até aparecer para quem decide comprar — seja na sua região ou em qualquer lugar onde está o seu cliente ideal."],
+    ["Toda empresa, lançamento e marca precisa de alguém que crie sites bonitos e que funcionam. E aqui tá o ponto: é um dos setores que mais pagam dentro do design. Enquanto muita gente ainda se prende a post de Instagram, você aprende a criar algo que gera resultado real e é muito mais valorizado.", "Enquanto a concorrência depende só do orgânico, você usa o canal mais rastreável do marketing. Cada real investido é medido, ajustado e aproxima você do próximo cliente — sem depender de sorte."],
+    ["Chega de achar que precisa ser programador. Você vai aprender a criar páginas fodas sem escrever uma única linha de código.", "Apareça para quem está na sua cidade ou bairro, exatamente quando está procurando o que você vende."],
+    ["Se você é da área do Design (ou quer entrar) o Web Design é o melhor caminho: menos concorrência, mais valor e os projetos mais bem pagos do mercado.", "Da primeira impressão até a decisão de compra — cada etapa pensada para conduzir o cliente até você."],
+    ["Aqui você aprende todo o processo de Web Designer: Desde a criação do Layout até a implementação da página online. Nada de ficar perdido entre mil tutoriais é o caminho direto pra virar Web Designer completo.", "Estratégia, criativo e otimização — tudo administrado para transformar clique em cliente pagante."],
+    ["Mesmo que você nunca tenha aberto o Figma, o Photoshop ou o Elementor, o NoCode Pages te ensina do zero a criar páginas completas, profissionais e simplesmente F#DAS.", "Estratégias de tráfego pago personalizadas de acordo com o objetivo do seu negócio."],
+    ["Chega de achar que Design é só criar Posts, carrosséis para o Instagram... Aqui você vai aprender a criar Páginas, Sites, Landing Pages, sem programar e agregando muito mais valor pros seus projetos e clientes.", "Otimização frequente das campanhas para melhorar resultado e performance."],
+    ["O Web Design é uma das áreas mais valorizadas hoje. Aqui você aprende a se destacar, cobrar mais e entregar projetos que chamam atenção de verdade.", "Relatórios e diagnósticos claros sobre o que foi investido e quanto retorno foi obtido."],
     ["Projetos completos: design + implementação, tudo detalhado passo a passo pra você criar páginas de alto nível.", "Cada projeto foi desenvolvido considerando necessidades específicas, metas comerciais e desafios reais."],
     ["Criar páginas é uma das habilidades mais valorizadas no design. Empresas, Infoprodutores, Profissionais... pagam muito bem para criação de Páginas Profissionais e poucos dominam isso de verdade.", "Construção de experiências alinhadas aos objetivos da marca."],
     ["A maioria dos designers ainda vive de posts e identidade visual. Poucos entendem o mercado de páginas, acham que é difícil, ou que precisa programar. o NO CODE PAGES vai mudar isso.)", "Páginas pensadas para facilitar decisões e aumentar resultados."],
@@ -84,26 +84,16 @@
     ["Se não encontrar sua resposta aqui, é só chamar no WhatsApp que a gente te ajuda rapidinho.", "Não encontrou sua resposta? Entre em contato e vamos conversar sobre o seu projeto."]
   ]);
 
-  setWidget("5fe03de9", '<h2 class="elementor-heading-title elementor-size-default">DESIGN QUE VAI <br class="copy-mobile-break"><span class="gradienteidv">ALÉM DA ESTÉTICA.</span></h2>');
-  setWidget("1ce18d7", '<h2 class="elementor-heading-title elementor-size-default">Sites, landing pages e experiências digitais <br class="copy-mobile-break">criadas para transformar visitantes em <br class="copy-mobile-break">oportunidades de negócio.<br><small>Design • Marketing Digital • Tecnologia</small></h2>');
-  setWidget("2b43020f", '<h2 class="elementor-heading-title elementor-size-default">UMA AMOSTRA DO MEU TRABALHO</h2>');
-  setWidget("2f0b990", '<h2 class="elementor-heading-title elementor-size-default">ESTRATÉGIA PARA <span class="gradienteidvv2">CADA DESAFIO</span></h2>');
+  setWidget("d53e663", '<div class="hero-name">HEITOR <span>LUCAS</span></div>');
+  setWidget("5fe03de9", '<h2 class="elementor-heading-title elementor-size-default">GESTÃO DE TRÁFEGO PAGO QUE COLOCA SUA MARCA NA FRENTE DE <span class="gradienteidv">QUEM REALMENTE COMPRA</span></h2>');
+  setWidget("1ce18d7", '<h2 class="elementor-heading-title elementor-size-default">Mais de 3 anos no tráfego pago, experiência em lançamentos, infoprodutos e reconhecimento de marca ou negócio, com mais de R$ 100 mil em anúncios gerenciados e +10 milhões de pessoas alcançadas.<br><small>Google Ads • TikTok Ads • Meta Ads</small></h2>');
+  setWidget("2b43020f", '<h2 class="elementor-heading-title elementor-size-default">POR QUE APLICAR TRÁFEGO PAGO NO SEU NEGÓCIO</h2>');
+  setWidget("2f0b990", '<h2 class="elementor-heading-title elementor-size-default">COMIGO VOCÊ <span class="gradienteidvv2">VAI TER:</span></h2>');
+  setWidget("9933918", '<h2 class="elementor-heading-title elementor-size-default">POSSO CONFIAR EM VOCÊ?</h2>');
+  setWidget("30fa68f0", '<h2 class="elementor-heading-title elementor-size-default">A resposta é sim — além de ter gerenciado mais de R$ 100 mil em anúncios, sou certificado por grandes agências e pelo maior curso de tráfego pago do Brasil.</h2><p class="trust-next">Fechando comigo você vai ter:</p>');
   setWidget("1ba0e33e", '<h2 class="elementor-heading-title elementor-size-default">PROJETOS EM <span class="gradienteidvv2">DESTAQUE</span></h2>');
   setWidget("ed1d824", '<h2 class="elementor-heading-title elementor-size-default">UMA SELEÇÃO DE SITES COM DIFERENTES OBJETIVOS E SEGMENTOS</h2>');
   setWidget("b61b0ab", '<h2 class="elementor-heading-title elementor-size-default">DESIGN COM <span class="gradienteidvv2">VISÃO DE NEGÓCIO</span></h2>');
-
-  const heroLogo = document.querySelector('[data-id="d53e663"] img');
-  if (heroLogo) {
-    heroLogo.src = "/logo-de-cria.png";
-    heroLogo.dataset.src = "/logo-de-cria.png";
-    heroLogo.removeAttribute("srcset");
-    heroLogo.removeAttribute("data-srcset");
-    heroLogo.removeAttribute("sizes");
-    heroLogo.removeAttribute("data-sizes");
-    heroLogo.alt = "Logo De Cria";
-    heroLogo.width = 220;
-    heroLogo.height = 105;
-  }
 
   replaceText(text);
   replaceText(paragraphs);
@@ -196,7 +186,7 @@
   }
 
   document.querySelectorAll(".elementor-button-text").forEach((button) => {
-    button.textContent = "FALE COMIGO";
+    button.textContent = "FALAR COM HEITOR";
   });
 
   const whatsappUrl = "https://wa.me/5522999761278?text=Ol%C3%A1%20bruno%20gostaria%20de%20fazer%20um%20or%C3%A7amento%20sobre%20meu%20projeto%21";
@@ -217,38 +207,17 @@
   document.querySelector('[data-id="18e95cf"]')?.remove();
 
   const specialties = [
-    "Landing Pages",
-    "Web Design",
-    "Design Estratégico",
-    "Marketing Digital",
-    "Design de Conversão",
-    "Photoshop",
-    "Inteligência Artificial",
-    "Desenvolvimento Web"
+    "Google Ads",
+    "TikTok Ads",
+    "Meta Ads"
   ];
   document.querySelectorAll('[data-id="30ca4738"] .swiper-slide-inner').forEach((slide, index) => {
     slide.dataset.specialty = specialties[index % specialties.length];
     slide.classList.add("portfolio-specialty");
   });
 
-  const sampleCards = [
-    ["36e356e7", "/card1.png", "Landing Pages"],
-    ["1edba248", "/card2.png", "Identidade Visual"],
-    ["3686c29a", "/card3.png", "Campanhas"],
-    ["2fe12819", "/card4.png", "Design para Marketing"],
-    ["4d121917", "/card5.png", "Web Design e Inteligência Artificial"]
-  ];
-  sampleCards.forEach(([widgetId, src, alt]) => {
-    const image = document.querySelector(`[data-id="${widgetId}"] img`);
-    if (!image) return;
-
-    image.src = src;
-    image.dataset.src = src;
-    image.removeAttribute("srcset");
-    image.removeAttribute("data-srcset");
-    image.removeAttribute("sizes");
-    image.removeAttribute("data-sizes");
-    image.alt = alt;
+  ["36e356e7", "1edba248", "3686c29a", "2fe12819", "4d121917"].forEach((id) => {
+    document.querySelector(`[data-id="${id}"]`)?.remove();
   });
 
   const portfolioImages = [
@@ -539,5 +508,5 @@
   });
 
   document.querySelector('[data-id="ab1e8fd"]')?.remove();
-  document.title = "Bruno Luiz | Designer Estratégico e Web Designer";
+  document.title = "Heitor Lucas | Gestor de Tráfego Pago";
 })();
